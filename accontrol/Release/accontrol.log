@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  dllmain.cpp
+D:\git\100dlswjd\assaultcube_dll\accontrol\dllmain.cpp(8,19): warning C4305: '초기화 중': 'int'에서 'BYTE'(으)로 잘립니다.
+D:\git\100dlswjd\assaultcube_dll\accontrol\dllmain.cpp(8,15): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  accontrol.vcxproj -> D:\git\100dlswjd\assaultcube_dll\accontrol\Release\accontrol.dll
